@@ -1,0 +1,14 @@
+﻿vk1D & J::Send,{Blind}{Left}
+vk1D & K::Send,{Blind}{Down}
+vk1D & I::Send,{Blind}{Up}
+vk1D & L::Send,{Blind}{Right}
+vk1D & D::Send,{Backspace}
+vk1D & F::Send,{Delete}
+vk1D & Y::Send,[
+vk1D & U::Send,]
+vk1D & M::Send,-
+vk1D & E::Send,+-
+vk1D & A::Send,+6
+vk1D & R::Send,+[
+vk1D & T::Send,+]
+vk1D & Space::Send,{Enter}
